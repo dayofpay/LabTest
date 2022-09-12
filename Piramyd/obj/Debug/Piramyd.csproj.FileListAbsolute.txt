@@ -1,0 +1,7 @@
+C:\Users\VCompany\source\repos\Piramyd\Piramyd\bin\Debug\Piramyd.exe.config
+C:\Users\VCompany\source\repos\Piramyd\Piramyd\bin\Debug\Piramyd.exe
+C:\Users\VCompany\source\repos\Piramyd\Piramyd\bin\Debug\Piramyd.pdb
+C:\Users\VCompany\source\repos\Piramyd\Piramyd\obj\Debug\Piramyd.csprojAssemblyReference.cache
+C:\Users\VCompany\source\repos\Piramyd\Piramyd\obj\Debug\Piramyd.csproj.CoreCompileInputs.cache
+C:\Users\VCompany\source\repos\Piramyd\Piramyd\obj\Debug\Piramyd.exe
+C:\Users\VCompany\source\repos\Piramyd\Piramyd\obj\Debug\Piramyd.pdb
