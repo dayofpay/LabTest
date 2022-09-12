@@ -18,11 +18,11 @@ namespace Piramyd
                     {
                         if (b == gatherServerInfo.getAngle)
                         {
-                            b -= Math.Min(b,i); // << Изваждаме стойноста докато ъглите не съвпаднат със картината, която е генерирана от изкуствения интелект
+                            b -= Math.Min(b,i);
                         }
                         else
                         {
-                            Console.WriteLine(Math.Sqrt(i) + i * Math.Tan(b)); // Намираме корена на стойноста i, след което го прибавяме към стойноста на тангенса на b
+                            Console.WriteLine(Math.Sqrt(i) + i * Math.Tan(b)); //
                         }
                     }
                     for(int c = gatherServerInfo.getCos; c >= gatherServerInfo.getAngle; c--)
@@ -34,7 +34,7 @@ namespace Piramyd
                         else
                         {
                             Console.WriteLine(Math.Cos(c) + i / gatherServerInfo.getCos * 2 * (gatherServerInfo.getCos * gatherServerInfo.getAngle));
-                        } // Измерване на ъглите в картината, която е зададена от потребителя
+                        }
                     }
                     for(int d = gatherServerInfo.getCos; d>= gatherServerInfo.getAngle; d--)
                     {
